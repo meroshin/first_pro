@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/first_pro/static/js/main.ac563c19.js",
+    "static/js/787.28cb0dcd.chunk.js": "/first_pro/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/first_pro/index.html",
+    "main.ac563c19.js.map": "/first_pro/static/js/main.ac563c19.js.map",
+    "787.28cb0dcd.chunk.js.map": "/first_pro/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ac563c19.js"
+  ]
+}
